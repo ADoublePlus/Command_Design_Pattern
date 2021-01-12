@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DisableAddBenefitsButtonCommand.cs" />
+    <Compile Include="DisableAddBenefitsButtonForALTCommand.cs" />
     <Compile Include="ICommand.cs" />
     <Compile Include="ICommandFactory.cs" />
   </ItemGroup>
