@@ -36,6 +36,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommandParser.cs" />
     <Compile Include="DisableAddBenefitsButtonCommand.cs" />
     <Compile Include="DisableAddBenefitsButtonForALTCommand.cs" />
     <Compile Include="DisableEditPlanHolderButtonCommand.cs" />
